@@ -34,7 +34,7 @@
         "drupal/core": "^8.6.0",
         "drupal/ehok_contact": "@dev",
         "drupal/entity": "~1.0",
-        "drupal/geocoder": "^2.1",
+        "drupal/geocoder": "^3.1",
         "drupal/geofield": "^1.1",
         "drupal/geofield_map": "^2.31",
         "drupal/leaflet": "^1.4",
