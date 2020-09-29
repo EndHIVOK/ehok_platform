@@ -37,7 +37,7 @@
         "drupal/geocoder": "^2.1",
         "drupal/geofield": "^1.1",
         "drupal/geofield_map": "^2.31",
-        "drupal/leaflet": "^1.4",
+        "drupal/leaflet": "^2.1",
         "drupal/material_admin": "^1.0@alpha",
         "drupal/office_hours": "^1.1",
         "drupal/rdfui": "^1.0@beta",
